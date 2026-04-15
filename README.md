@@ -21,7 +21,12 @@ A simple and effective web application that helps users send emergency alerts wi
 - JavaScript
 
 ## Preview
-(Add your screenshot here)
+
+### Home Screen
+![Home](screenshot.png)
+
+### SOS Triggered
+![SOS](screenshot1.png)
 
 ## Future Improvements
 - Send SOS via WhatsApp/SMS  
